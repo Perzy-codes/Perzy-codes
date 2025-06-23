@@ -2,7 +2,7 @@ name: ⏱️ Update README daily
 
 on:
   schedule:
-    - cron: "0 7 * * *" # every day at 7 AM UTC
+    - cron: "0 7 * * *"
   workflow_dispatch:
 
 jobs:
@@ -18,13 +18,14 @@ jobs:
           python-version: '3.x'
 
       - name: Run update script
-        run: |
-          python update.py
+        run: python update.py
 
       - name: Commit changes
         run: |
           git config --global user.name 'perzy-bot'
           git config --global user.email 'pdabas@umd.edu'
           git add README.md
-          git commit -m "🔄 Daily update"
+          git commit -m "🔄 Daily update" || echo "No changes to commit"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
