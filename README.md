@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! I'm Pratham 👋</h1>
+<h1 align="center">Coders and Future builders! I'm Pratham 👋</h1>
 
 <p align="center">
   <em>🚀 Data Science Grad @ UMD • 🧠 ML Engineer • 💡 Builder of Real-Time AI Systems • 🧰 DevOps & Automation Enthusiast</em>
@@ -27,7 +27,7 @@
 |---------|---------------|-------------------|
 | Python, SQL, MATLAB | ML, DL, NLP, Time Series | AWS, Docker, Jenkins |
 | PyTorch, TensorFlow, Sklearn | Feature Engg, Forecasting, Anomaly Detection | CI/CD, GitHub Actions |
-| LangChain, OpenCV, Streamlit | Real-time pipelines, LLM apps | Git, Bash, MySQL |
+| LangChain, OpenCV, Streamlit, RAG | Real-time pipelines, LLM apps | Git, Bash, MySQL |
 
 ---
 
