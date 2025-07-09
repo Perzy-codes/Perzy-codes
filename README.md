@@ -68,6 +68,6 @@
 
 ### ☕ Let’s Connect!
 
-Let’s build something impactful together—AI projects, data science ideas, or just geek out over tech trends. Reach out, follow, or fork and vibee 🚀
+Let’s build something impactful together—AI projects, data science ideas, or just geek out over tech trends. Reach out, follow, or fork and vibe 🚀
 
 > 🔄 Last updated: <!--START_SECTION:updated-->2025-07-08 07:19:11 UTC<!--END_SECTION:updated-->
