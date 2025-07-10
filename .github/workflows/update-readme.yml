@@ -23,7 +23,7 @@ jobs:
       - name: Commit changes
         run: |
           git config --global user.name 'perzy-codes'
-          git config --global user.email 'pdabas@umd.edu'
+          git config --global user.email 'pratham.dabas98@gmail.com'
           git add README.md
           git commit -m "🔄 Daily update" || echo "No changes to commit"
           git push
