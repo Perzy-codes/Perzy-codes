@@ -1,4 +1,6 @@
-<img src="https://github.com/Perzy-codes.png" width="120" align="right" />
+<table>
+<tr>
+<td valign="middle" width="75%">
 
 # Hey, I'm Pratham (Perzy) 👋
 
@@ -8,6 +10,13 @@
 [![Email](https://img.shields.io/badge/Email-dabaspratham28@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dabaspratham28@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamdabas/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Perzy-codes)
+
+</td>
+<td valign="middle" width="25%" align="center">
+<img src="https://github.com/Perzy-codes.png" width="180" style="border-radius: 50%;" />
+</td>
+</tr>
+</table>
 
 ---
 
