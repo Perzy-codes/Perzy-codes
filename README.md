@@ -13,7 +13,12 @@
 
 </td>
 <td valign="middle" width="25%" align="center">
-<img src="https://github.com/Perzy-codes.png" width="180" style="border-radius: 50%;" />
+<svg width="180" height="180" xmlns="http://www.w3.org/2000/svg">
+  <clipPath id="circle">
+    <circle cx="90" cy="90" r="90"/>
+  </clipPath>
+  <image href="https://github.com/Perzy-codes.png" width="180" height="180" clip-path="url(#circle)"/>
+</svg>
 </td>
 </tr>
 </table>
