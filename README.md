@@ -1,73 +1,78 @@
-<h1 align="center">Coders and Future builders! I'm Pratham 👋</h1>
+# Hey, I'm Pratham (Perzy) 👋
 
-<p align="center">
-  <em>🚀 Data Science Grad @ UMD • 🧠 ML Engineer • 💡 Builder of Real-Time AI Systems • 🧰 DevOps & Automation Enthusiast</em>
-</p>
+*MS Data Science @ UMD '26 · Ex-Data Scientist @ Osttra (S&P Global) · Ex-Data Analyst @ IHS Markit*  
+*Building things that go from raw data → real decisions.*
 
-<p align="center">
-  <a href="mailto:pdabas@umd.edu"><img src="https://img.shields.io/badge/Email-%23pdabas@umd.edu-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/pratham-dabas-218007137/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Perzy-codes" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+[![Email](https://img.shields.io/badge/Email-%23pdabas@umd.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pdabas@umd.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamdabas/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Perzy-codes)
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 Master’s in Data Science @ University of Maryland (Class of 2026)
-- 💼 Ex-Data Engineer @ Osttra (S&P Global) | Ex-Data Analyst @ IHS Markit
-- 🌐 Currently building ML-powered products that think, learn, and respond in real-time
-- 🛠️ Passionate about MLOps, NLP, Deep Learning, and Streaming Analytics
+- 🎓 **MS Data Science** @ University of Maryland (GPA: 3.83, May 2026)
+- 💼 **3+ years industry** · Data Scientist at Osttra (S&P Global) on OTC derivatives post-trade analytics, Data Analyst/SWE at IHS Markit
+- 🧠 Currently shipping: causal inference studies, LLM fine-tuning pipelines, and production-grade ML systems
+- 📍 Based in DC area · Open to relocation
+- 🎛️ Data by day. Decks by night. Deploying models in between.
 
 ---
 
-### 💡 What I Work On
+### 🚀 Featured Projects
 
-| ⚙️ Tools | 📊 Data & AI | 🌍 Cloud & DevOps |
-|---------|---------------|-------------------|
-| Python, SQL, MATLAB | ML, DL, NLP, Time Series | AWS, Docker, Jenkins |
-| PyTorch, TensorFlow, Sklearn | Feature Engg, Forecasting, Anomaly Detection | CI/CD, GitHub Actions |
-| LangChain, OpenCV, Streamlit, RAG | Real-time pipelines, LLM apps | Git, Bash, MySQL |
-
----
-
-### 🚀 Highlight Projects
-
-- 🧠 **[GenVision Diffuse](https://github.com/Perzy-codes/GenVision_Diffuse_ComputerVision.git)**: Diffusion model for image generation with custom UNet in PyTorch.
-- 📈 **[Bitcoin Price Analyzer](https://github.com/causify-ai/tutorials/tree/TutorTask139_Spring2025_Real_Time_Bitcoin_Analysis_using_Faust/DATA605/Spring2025/projects/TutorTask139_Spring2025_Real_Time_Bitcoin_Analysis_using_Faust)**: Real-time Bitcoin stream analytics using Faust + ARIMA.
-- 📄 **[AgentParse](https://github.com/Perzy-codes/AgentParse-using-Langchain)**: LLM-powered resume parser using LangChain, OpenAI API, and Streamlit to extract structured data from resumes.
-- 💸 **[FinAdv AI](https://github.com/Perzy-codes/FinAdv-AI-financial-advisor)**: Chat-based financial assistant with TensorFlow, spaCy & Yodlee API.
+| Project | What It Does | Stack |
+|--------|-------------|-------|
+| 🔮 **[Prism](https://github.com/Perzy-codes)** | Customer intelligence platform: XGBoost churn/LTV, 5-model attribution (Shapley + Markov Chain), $500K+ budget reallocation | Python, BigQuery, FastAPI, LookML |
+| 🏥 **[HealthKare](https://github.com/Perzy-codes)** | Advanced RAG pipeline for medical Q&A: BM25 hybrid search, cross-encoder reranking, HyDE, RAGAS benchmarking | FAISS, LangChain, FastAPI, Streamlit |
+| 🤖 **[FinTune](https://github.com/Perzy-codes)** | Mistral-7B fine-tuned with QLoRA for financial NLP + agentic evaluation pipeline with knowledge distillation | Mistral-7B, QLoRA, HuggingFace, Python |
+| 📸 **[ProClass](https://github.com/Perzy-codes)** | Fashion product image classifier: ResNet18, 98.39% test accuracy, full AWS MLOps deployment | PyTorch, ResNet18, AWS (S3/EC2/SageMaker) |
+| 📊 **[Cannabis × Traffic Safety](https://github.com/Perzy-codes)** | Causal study on legalization's impact on fatal crashes: DiD on 885K+ records across 17 states | Python, statsmodels, NHTSA data, XGBoost |
 
 ---
 
-### 🔥 Fun Stuff
+### 🛠️ Stack
 
-- 🛠️ I break models just to fix them better ⚒️  
-- 🧪 Currently experimenting with diffusion models, RAG pipelines, and LLM automation  
-- 🌍 I believe tech should make lives easier, smarter, and more secure  
-- 🧘 When not debugging, I’m journaling, curating playlists, or planning spontaneous weekend getaways  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" alt="GitHub struggles gif" width="400"/>
-  <br>
-  <em>Me after pushing to <code>main</code> instead of <code>dev</code></em>
-</p>
+**Languages:** Python · SQL · R  
+**ML/DL:** PyTorch · TensorFlow · Scikit-learn · XGBoost · Transformers · QLoRA  
+**Data:** Pandas · Spark · BigQuery · dbt · Kafka  
+**LLM/AI:** LangChain · FAISS · RAG · HuggingFace · OpenAI API  
+**Cloud/MLOps:** AWS (S3, EC2, SageMaker) · Docker · GitHub Actions · FastAPI  
+**Viz:** Looker · Tableau · Matplotlib · Plotly
 
 ---
 
-### 📊 GitHub Stats (Updated Daily)
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Perzy-codes&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Perzy-codes&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Perzy-codes&theme=tokyonight)](https://github.com/Perzy-codes)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Perzy-codes&show_icons=true&theme=tokyonight)](https://github.com/Perzy-codes)
 
 ---
 
-### ☕ Let’s Connect!
+### 🔥 Currently
 
-Let’s build something impactful together—AI projects, data science ideas, or just geek out over tech trends. Reach out, follow, or fork and vibee 🚀
+- 🧪 Deep-diving: RNNs, LSTMs, CNNs, Transformers (coursework + research)
+- 📄 Contributing to published research on PFAS environmental data (Toxics, 2026)
+- 🤖 Using and learning Claude, building AI-powered apps, and exploring whatever new tech drops next
+- 🎯 Open to **Data Scientist / AI-ML Engineer** roles
+- 🎛️ DJ sets and spontaneous travel when the models are training
 
-> 🔄 Last updated: <!--START_SECTION:updated-->2026-04-14 08:24:26 UTC<!--END_SECTION:updated-->
+---
+
+### 🎲 Random Facts About Me
+
+- 🎛️ I DJ, not just playlists but actual mixing. The transition between tracks and the transition between model versions hit different
+- 🤸 Teaching myself calisthenics, every single day. No excuses, no rest days, just reps
+- 🌅 A complete sucker for sunsets and hikes with ridiculous views. The kind that make you forget your laptop exists
+- ✈️ Aspire to travel everywhere. If there's a weekend and a flight, I'm already planning it
+- 🏒 Captained my hockey team to nationals. Turns out leading a line and leading a data team aren't that different
+- 🧠 I find it physically difficult to leave a problem unsolved. Bugs, puzzles, debates, all the same to me
+
+---
+
+### 🤝 Let's Connect
+
+Open to DS/ML/AI roles, research collabs, and interesting conversations about building things that actually work in prod. Hit me up.
+
+> 🔄 Last updated: 2026-04-14 UTC
