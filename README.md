@@ -1,9 +1,11 @@
+<img src="https://github.com/Perzy-codes.png" width="120" align="right" />
+
 # Hey, I'm Pratham (Perzy) 👋
 
 *MS Data Science @ UMD '26 · Ex-Data Scientist @ Osttra (S&P Global) · Ex-Data Analyst @ IHS Markit*  
 *Building things that go from raw data → real decisions.*
 
-[![Email](https://img.shields.io/badge/Email-%23pdabas@umd.edu-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pdabas@umd.edu)
+[![Email](https://img.shields.io/badge/Email-dabaspratham28@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dabaspratham28@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathamdabas/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Perzy-codes)
 
