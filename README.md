@@ -87,4 +87,4 @@
 Open to DS/ML/AI roles, research collabs, and interesting conversations about building things that actually work in prod. Hit me up.
 
 > 🔄 Last updated: 2026-04-14 UTC
-<!--START_SECTION:updated-->2026-07-18 08:47:05 UTC<!--END_SECTION:updated-->
+<!--START_SECTION:updated-->2026-07-19 09:03:28 UTC<!--END_SECTION:updated-->
